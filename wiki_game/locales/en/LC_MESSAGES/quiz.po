@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quiz Game\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Choose language / Выберите язык:"
+msgstr "Choose language:"
+
+msgid "🌟 Welcome to Smart Quiz! 🌟"
+msgstr "🌟 Welcome to Smart Quiz! 🌟"
+
+msgid "Enter your name: "
+msgstr "Enter your name: "
+
+msgid "Invalid choice. Try again."
+msgstr "Invalid choice. Try again."
+
+msgid "🏆 Top 5 Players:"
+msgstr "🏆 Top 5 Players:"
+
+msgid "points"
+msgstr "points"
+
+msgid "📚 Topic:"
+msgstr "📚 Topic:"
+
+msgid "✎ Your answer:"
+msgstr "✎ Your answer:"
+
+msgid "✓ Correct! %s (+%d)"
+msgstr "✓ Correct! %s (+%d)"
+
+msgid "Score: %d | Streak: %d 👍"
+msgstr "Score: %d | Streak: %d 👍"
+
+msgid "✗ Wrong. Correct answer: %s"
+msgstr "✗ Wrong. Correct answer: %s"
+
+msgid "▶ Continue? (y/n):"
+msgstr "▶ Continue? (y/n):"
+
+msgid "✨ Game Over! Your score: %d"
+msgstr "✨ Game Over! Your score: %d"
+
+msgid "Failed to load question..."
+msgstr "Failed to load question..."
+
+msgid "⏰ Time's up!"
+msgstr "⏰ Time's up!"
